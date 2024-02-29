@@ -1,0 +1,195 @@
+/* 
+Theme Name: LUTHER BLUE
+Author: Tahsin
+Version: 1.0
+*/
+body {
+  background-color: #f7f4ec;
+  margin: 0;
+  padding: 0;
+  font-family: "Lora", serif;
+}
+.top-discount {
+  background-color: rgba(0, 0, 0, 0.705);
+  color: white;
+  margin: 0;
+  padding: 10px 0;
+  text-align: center;
+  position: relative;
+}
+.cut {
+  position: absolute;
+  color: white;
+  top: 0;
+  right: 0;
+  margin: 10px 20px;
+  cursor: pointer;
+}
+.navbar {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.705);
+  margin: 10px;
+}
+a:hover {
+  text-decoration: underline;
+}
+.flex-1 {
+  display: flex;
+  border: 1px solid black;
+}
+.left-pic {
+  border-right: 1px solid black;
+}
+.right-text {
+  margin: 30px 50px;
+}
+.dot {
+  font-weight: bold;
+  font-size: 20px;
+}
+.bright {
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.des {
+  width: 580px;
+  font-size: 18px;
+  padding-bottom: 16px;
+  border-bottom: 3px solid black;
+}
+.lite {
+  padding-bottom: 10px;
+  border-bottom: 1px solid gray;
+}
+.weight {
+  padding: 10px;
+  border: none;
+  background-color: white;
+  color: black;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+.weight:hover {
+  background-color: black;
+  color: white;
+}
+.pur {
+  margin-top: 30px;
+  padding: 15px;
+  border: none;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+}
+.pur:hover {
+  background-color: black;
+  color: white;
+}
+.s-small {
+  font-size: 12px;
+}
+.s-s {
+  font-size: 10px;
+  width: 280px;
+}
+.upper {
+  margin-top: 50px;
+}
+.flex-2 {
+  display: flex;
+  border: 1px solid black;
+  gap: 20px;
+}
+.hwash {
+  border: 1px solid black;
+}
+.para {
+  margin-top: 40px;
+  margin-left: 20px;
+}
+.description {
+  font-size: 30px;
+  width: 600px;
+}
+.flex-3 {
+  display: flex;
+  border: 1px solid black;
+  gap: 70px;
+}
+.flex-4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 20px;
+  width: 600px;
+  margin-left: 10px;
+}
+.mg {
+  margin: 0;
+  font-size: 30px;
+}
+.ak {
+  font-size: 16px;
+}
+.hso {
+  width: 695px;
+  margin-left: 50px;
+}
+.hw {
+  width: 700px;
+}
+.last-p {
+  font-size: 25px;
+  margin: 30px;
+}
+.flex-5 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.img1,
+.dot {
+  margin-left: 10px;
+  padding-bottom: 10px;
+  font-size: 12px;
+  border-bottom: 1px solid black;
+}
+.tx {
+  margin-left: 15px;
+}
+.flex-6 {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px;
+}
+.pr {
+  color: gray;
+  font-size: 14px;
+}
+.btn {
+  border: none;
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+  background-color: white;
+  color: black;
+  padding: 20px;
+  width: 330px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: black;
+  color: white;
+}
+.btn-d {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
